@@ -12,11 +12,11 @@
 
 harshiOS-X treats computing the way nature treats life:
 
-- **Homeostatic** - resources self-regulate like biological systems
-- **Adaptive** — the OS learns and responds to its environment
-- **Resilient** — failures are survived, not fatal
-- **Self-Healing** — damaged components regenerate automatically
-- **Interface** — a membrane between hardware and the world, controlling everything that crosses
+- **Homeostatic** - Resources self-regulate like biological systems
+- **Adaptive** — The OS learns and responds to its environment
+- **Resilient** — Failures are survived, not fatal
+- **Self-Healing** — Damaged components regenerate automatically
+- **Interface** — A membrane between hardware and the world, controlling everything that crosses
 
 ## Inspired By
 - Biological regulatory networks
@@ -29,5 +29,4 @@ The human brain outperforms any supercomputer on 20 watts.
 harshiOS-X asks why, and builds toward that answer.
 
 ---
-*Dedicated to Harshitha — the best things we build 
-are always for someone.*
+*The best things we build are always for someone.*
