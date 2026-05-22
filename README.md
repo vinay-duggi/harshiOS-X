@@ -13,10 +13,10 @@
 harshiOS-X treats computing the way nature treats life:
 
 - **Homeostatic** - Resources self-regulate like biological systems
-- **Adaptive** — The OS learns and responds to its environment
-- **Resilient** — Failures are survived, not fatal
-- **Self-Healing** — Damaged components regenerate automatically
-- **Interface** — A membrane between hardware and the world, controlling everything that crosses
+- **Adaptive** - The OS learns and responds to its environment
+- **Resilient** - Failures are survived, not fatal
+- **Self-Healing** - Damaged components regenerate automatically
+- **Interface** - A membrane between hardware and the world, controlling everything that crosses
 
 ## Inspired By
 - Biological regulatory networks
